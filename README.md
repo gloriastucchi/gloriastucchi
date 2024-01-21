@@ -37,9 +37,10 @@ University of Bergamo, Italy (Oct 2019 - Jul 2023)
 B.Sc. in Software Engineering
 Final Thesis: "Exploring the Application of Deep Learning in Industrial Equipment Alarm Prediction" (Grade: 102/110)
 Erasmus+ Exchange at the University of Southern Denmark (Jan 2022 - Jun 2022)
-Work Experience
 
-Schneider Electric - Internship (Jul 2022 - Sep 2022)
+**Work Experience**
+
+*Schneider Electric* - Internship (Jul 2022 - Sep 2022)
 Participated in the SE Global Student Experience program, focusing on sustainability and digitalization in Industry 4.0.
 
 
