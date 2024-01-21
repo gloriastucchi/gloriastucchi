@@ -32,10 +32,15 @@ Docker
 **Education**
 
 Technical University of Denmark (Aug 2023 - Jul 2025)
+
 M.Sc. in Software Engineering, AI Specialization
+
 University of Bergamo, Italy (Oct 2019 - Jul 2023)
+
 B.Sc. in Software Engineering
+
 Final Thesis: "Exploring the Application of Deep Learning in Industrial Equipment Alarm Prediction" (Grade: 102/110)
+
 Erasmus+ Exchange at the University of Southern Denmark (Jan 2022 - Jun 2022)
 
 **Work Experience**
