@@ -10,6 +10,7 @@ I am a Software Engineering Student at the Technical University of Denmark, pass
 
 
 **🚀 Technical Skills**
+
 Programming Languages:
 Python
 Java
