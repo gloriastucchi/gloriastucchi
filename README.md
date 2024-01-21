@@ -1,4 +1,4 @@
-Hello, I'm Gloria Stucchi 👋
+**Hello, I'm Gloria Stucchi 👋**
 
 I am a Software Engineering Student at the Technical University of Denmark, passionate about Artificial Intelligence and Data Analytics. My ambition and cheerful nature thrive in dynamic and multicultural environments, and I am dedicated to leveraging Deep Learning to develop sustainable solutions. With a strong focus on continuous learning, I aim to drive excellence in the field of AI.
 
