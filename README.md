@@ -14,13 +14,16 @@ I am a Software Engineering Student at the Technical University of Denmark, pass
 Programming Languages:
 Python
 Java
+
 Web Technologies:
 Vue/Vuetify
+
 Data Analysis & Machine Learning:
 Pytest
 Pytorch
 Tensorflow
 Matlab (Statistics Data Analysis)
+
 Others:
 SQL
 GitHub as SCM tool
