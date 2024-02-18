@@ -48,8 +48,8 @@ Erasmus+ Exchange at the University of Southern Denmark (Jan 2022 - Jun 2022)
 
 **Work Experience**
 
-*Schneider Electric* - Internship (Jul 2022 - Sep 2022)
-Participated in the SE Global Student Experience program, focusing on sustainability and digitalization in Industry 4.0.
+*Schneider Electric* - (Jul 2022 - Sep 2022)
+Selected for SE Global Student Experience program, focusing on sustainability and digitalization in Industry 4.0.
 
 
 **Most Relevant Projects**
