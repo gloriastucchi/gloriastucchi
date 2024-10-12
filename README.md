@@ -6,7 +6,7 @@ I am a Software Engineering Student at the Technical University of Denmark, pass
 
 🎓 Pursuing an M.Sc. in Software Engineering with a focus on AI at the Technical University of Denmark.
 
-🌐 Fluent in Italian (mother tongue), proficient in English (C1 level), French (A2 level), and Spanish (B1 level).
+🌐 Fluent in Italian (native), proficient in English (C1 level), French (A2 level), and Spanish (B1 level).
 
 💡 Fascinated by the role of Deep Learning in industrial optimization and sustainability.
 
