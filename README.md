@@ -6,9 +6,9 @@ I am a M.Sc. student in **Computer Science and Engineering** at **Technical Univ
 
 ## **🌍 About Me**
 - 🎓 **M.Sc. in Computer Science and Engineering** (AI Specialization) at DTU, Denmark *(2023-2025)*
+  - 🎖 **Microsoft Mentoring Program for Women at DTU Compute**
 - 🎓 **B.Sc. in Software Engineering** at University of Bergamo, Italy *(2019-2023)*
   - **Final Thesis**: *"Exploring the Application of Deep Learning in Industrial Equipment Alarm Prediction"* *(Grade: 102/110)*
-  - 🎖 **Microsoft Mentoring Program for Women at DTU Compute**
   - **Erasmus+ Exchange** at the **University of Southern Denmark** *(2022)*
 - 🚀 **Currently researching**: **Fairness in AI**
 - 🌎 **Languages**:  
