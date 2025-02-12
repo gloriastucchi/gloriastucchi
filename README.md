@@ -1,64 +1,40 @@
-**Hello, I'm Gloria Stucchi 👋**
+# **Hi, I'm Gloria 👋**
 
-I am a Software Engineering Student at the Technical University of Denmark, passionate about Artificial Intelligence and Data Analytics. My ambition and cheerful nature thrive in dynamic and multicultural environments, and I am dedicated to leveraging Deep Learning to develop sustainable solutions. With a strong focus on continuous learning, I aim to drive excellence in the field of AI.
+I am a M.Sc. student in **Computer Science and Engineering** at **Technical University of Denmark (DTU)**, passionate about **Artificial Intelligence, Machine Learning, and Digital Transformation**.
 
-**About Me**
+---
 
-🎓 Pursuing an M.Sc. in Software Engineering with a focus on AI at the Technical University of Denmark.
+## **🌍 About Me**
+- 🎓 **M.Sc. in Computer Science and Engineering** (AI Specialization) at DTU, Denmark *(2023-2025)*
+- 🎓 **B.Sc. in Software Engineering** at University of Bergamo, Italy *(2019-2023)*
+  - **Final Thesis**: *"Exploring the Application of Deep Learning in Industrial Equipment Alarm Prediction"* *(Grade: 102/110)*
+  - 🎖 **Microsoft Mentoring Program for Women at DTU Compute**
+  - **Erasmus+ Exchange** at the **University of Southern Denmark** *(2022)*
+- 🚀 **Currently researching**: **Fairness in AI**
+- 🌎 **Languages**:  
+  - **Italian** (Native), **English** (C1, CAE 199), **Spanish** (Basic)
 
-🌐 Fluent in Italian (native), proficient in English (C1 level), French (A2 level), and Spanish (B1 level).
+---
 
-💡 Fascinated by the role of Deep Learning in industrial optimization and sustainability.
+## **🔬 Most Relevant Projects**
+### **🩺 Segmentation of Noise-Affected X-Ray Images Using UNet 3+**
+- Developed a **semantic segmentation model** using **UNet 3+**.
+- Focused on **data augmentation**, **noise robustness**, and **model complexity**.
+- Analyzed the impact of **Gaussian** and **salt-and-pepper noise** on segmentation performance.
 
+---
 
-**🚀 Technical Skills**
+## **💼 Work Experience**
+### **🚀 AI Engineer & Project Manager @ Qool** *(Feb 2024 - Jun 2024, Copenhagen, DK)*
+- Learned about **AI and Quantum Computing** integration.
+- Took part in **tech international events** like **Lario Space**.
 
-Programming Languages:
-Python
-Java
+### **💡 Project & Software Developer @ DBI (Danish Agency of Fire and Security)** *(Jun 2024 - Present, Copenhagen, DK)*
+- Developed **GenAI-based enterprise software** solutions.
+- Managed projects ensuring **alignment with business objectives**.
+- Led **cross-functional teams** to deliver impactful results.
 
-Web Technologies:
-Vue/Vuetify
+---
 
-Data Analysis & Machine Learning:
-Pytest
-Pytorch
-Tensorflow
-Matlab (Statistics Data Analysis)
-
-Others:
-SQL
-GitHub as SCM tool
-Office Package
-Notion
-Docker
-
-
-**Education**
-
-Technical University of Denmark (Aug 2023 - Jul 2025)
-
-M.Sc. in Software Engineering, AI Specialization
-
-University of Bergamo, Italy (Oct 2019 - Jul 2023)
-
-B.Sc. in Software Engineering
-
-Final Thesis: "Exploring the Application of Deep Learning in Industrial Equipment Alarm Prediction" (Grade: 102/110)
-Erasmus+ Exchange at the University of Southern Denmark (Jan 2022 - Jun 2022)
-
-
-**Most Relevant Projects**
-
-Segmentation of Noise-Affected X-Ray Images Using UNet 3+:
-Developed a semantic segmentation model for X-ray images, focusing on model complexity and data augmentation.
-
-Air Quality Data Analysis Using Stochastic Models:
-Handled large datasets and employed multiple regression tools in Matlab to analyze air pollution data in Milan, focusing on lockdown periods.
-
-
-**How to Reach Me**
-
-📧 Email: stucchi.gloria@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/gloria-stucchi
+## **📩 How to Reach Me**
+🔗 **LinkedIn**: [www.linkedin.com/in/gloria-stucchi](https://www.linkedin.com/in/gloria-stucchi)
